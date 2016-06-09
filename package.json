@@ -1,6 +1,6 @@
 {
   "name": "kontroller",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "description": "Just controller",
   "main": "index.js",
   "scripts": {
@@ -19,8 +19,5 @@
     "should": "~1.2.2",
     "mocha": "~1.8.2",
     "semicov": "latest"
-  },
-  "dependencies": {
-    "mocha": "~1.17.0"
   }
 }
